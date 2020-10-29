@@ -4,21 +4,22 @@ git 的使用规范
 >auther：forbid  
 data：2020/10/29   
 version：1.0  
+附加说明：该文章的内容很多来自网络上的资料，这个不用于商业用途，如有侵权等问题请联系本人。
 
 <!-- TOC -->
 
 - [仓库目录与文件](#仓库目录与文件)
-    - [仓库目录](#仓库目录)
-    - [文件名字](#文件名字)
+  - [仓库目录](#仓库目录)
+  - [文件名字](#文件名字)
 - [README内容](#readme内容)
 - [commint](#commint)
-    - [提交规则](#提交规则)
-        - [header](#header)
-        - [body：针对本次commint的详细描述，可以分成多行。](#body针对本次commint的详细描述可以分成多行)
-        - [footer](#footer)
-    - [Revert撤销commint](#revert撤销commint)
-    - [分支](#分支)
-    - [参考资料](#参考资料)
+  - [提交规则](#提交规则)
+    - [header](#header)
+    - [body：针对本次commint的详细描述，可以分成多行。](#body针对本次commint的详细描述可以分成多行)
+    - [footer](#footer)
+  - [Revert撤销commint](#revert撤销commint)
+  - [分支](#分支)
+  - [参考资料](#参考资料)
 
 <!-- /TOC -->
 
