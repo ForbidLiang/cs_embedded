@@ -7,7 +7,7 @@
 # file structure 
   
   
-**cs_note_inherent**
+**cs_note_inherent**  
 |—— 00数据结构  
 |—— 01计算机网络  
 |—— 02计算机组成原理  
